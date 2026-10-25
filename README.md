@@ -35,3 +35,9 @@ Good SEO is boring in the best way: consistent technical fixes, genuinely useful
 ## About the author
 
 Tanveer Evan Rahat is an AI-driven SEO expert in Bangladesh and founder of NexaForge IT — 96K+ monthly organic traffic delivered, 8,000+ keywords ranked, clients including RFL, PRAN, and Rangs, Best SEO Expert at BIT Expo 2024 and ICT Expo 2024.
+
+## More guides
+
+- [AI SEO, GEO & AEO: How to Rank in ChatGPT and Google AI Overviews](https://github.com/tanveerevanrahat/ai-seo-geo-aeo-guide)
+- [Local SEO: How to Rank in Google's Map Pack (Top 3)](https://github.com/tanveerevanrahat/local-seo-google-maps-guide)
+- [Tanveer Evan Rahat — profile README](https://github.com/tanveerevanrahat/tanveerevanrahat)
